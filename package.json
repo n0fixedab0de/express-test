@@ -1,0 +1,22 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "API to get all the cool Pokemon info you might want",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0fixedab0de/express-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n0fixedab0de/express-test/issues"
+  },
+  "homepage": "https://github.com/n0fixedab0de/express-test#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
